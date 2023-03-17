@@ -1,0 +1,96 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="catsImages\котик %281%29.jpeg" />
+    <None Remove="catsImages\котик %2810%29.jpg" />
+    <None Remove="catsImages\котик %2811%29.jpg" />
+    <None Remove="catsImages\котик %2812%29.jpg" />
+    <None Remove="catsImages\котик %2813%29.jpg" />
+    <None Remove="catsImages\котик %2814%29.jpg" />
+    <None Remove="catsImages\котик %2815%29.jpg" />
+    <None Remove="catsImages\котик %2816%29.jpg" />
+    <None Remove="catsImages\котик %2817%29.jpg" />
+    <None Remove="catsImages\котик %2818%29.jpg" />
+    <None Remove="catsImages\котик %2819%29.jpg" />
+    <None Remove="catsImages\котик %282%29.jpg" />
+    <None Remove="catsImages\котик %2820%29.jpg" />
+    <None Remove="catsImages\котик %2821%29.jpg" />
+    <None Remove="catsImages\котик %2822%29.jpg" />
+    <None Remove="catsImages\котик %2823%29.jpg" />
+    <None Remove="catsImages\котик %2824%29.jpg" />
+    <None Remove="catsImages\котик %2825%29.jpg" />
+    <None Remove="catsImages\котик %2826%29.jpg" />
+    <None Remove="catsImages\котик %2827%29.jpg" />
+    <None Remove="catsImages\котик %2828%29.jpg" />
+    <None Remove="catsImages\котик %2829%29.jpg" />
+    <None Remove="catsImages\котик %283%29.jpeg" />
+    <None Remove="catsImages\котик %2830%29.jpg" />
+    <None Remove="catsImages\котик %2831%29.jpg" />
+    <None Remove="catsImages\котик %2832%29.jpg" />
+    <None Remove="catsImages\котик %2833%29.jpg" />
+    <None Remove="catsImages\котик %2834%29.jpg" />
+    <None Remove="catsImages\котик %2835%29.jpg" />
+    <None Remove="catsImages\котик %2836%29.jpg" />
+    <None Remove="catsImages\котик %2837%29.jpg" />
+    <None Remove="catsImages\котик %2838%29.jpg" />
+    <None Remove="catsImages\котик %284%29.jpg" />
+    <None Remove="catsImages\котик %285%29.jpg" />
+    <None Remove="catsImages\котик %286%29.jpg" />
+    <None Remove="catsImages\котик %287%29.jpg" />
+    <None Remove="catsImages\котик %288%29.jpg" />
+    <None Remove="catsImages\котик %289%29.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="icon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="catsImages\котик (1).jpeg" />
+    <Resource Include="catsImages\котик (10).jpg" />
+    <Resource Include="catsImages\котик (11).jpg" />
+    <Resource Include="catsImages\котик (12).jpg" />
+    <Resource Include="catsImages\котик (13).jpg" />
+    <Resource Include="catsImages\котик (15).jpg" />
+    <Resource Include="catsImages\котик (16).jpg" />
+    <Resource Include="catsImages\котик (17).jpg" />
+    <Resource Include="catsImages\котик (18).jpg" />
+    <Resource Include="catsImages\котик (19).jpg" />
+    <Resource Include="catsImages\котик (2).jpg" />
+    <Resource Include="catsImages\котик (20).jpg" />
+    <Resource Include="catsImages\котик (21).jpg" />
+    <Resource Include="catsImages\котик (22).jpg" />
+    <Resource Include="catsImages\котик (23).jpg" />
+    <Resource Include="catsImages\котик (24).jpg" />
+    <Resource Include="catsImages\котик (25).jpg" />
+    <Resource Include="catsImages\котик (26).jpg" />
+    <Resource Include="catsImages\котик (27).jpg" />
+    <Resource Include="catsImages\котик (28).jpg" />
+    <Resource Include="catsImages\котик (29).jpg" />
+    <Resource Include="catsImages\котик (3).jpeg" />
+    <Resource Include="catsImages\котик (30).jpg" />
+    <Resource Include="catsImages\котик (31).jpg" />
+    <Resource Include="catsImages\котик (32).jpg" />
+    <Resource Include="catsImages\котик (33).jpg" />
+    <Resource Include="catsImages\котик (34).jpg" />
+    <Resource Include="catsImages\котик (35).jpg" />
+    <Resource Include="catsImages\котик (36).jpg" />
+    <Resource Include="catsImages\котик (37).jpg" />
+    <Resource Include="catsImages\котик (38).jpg" />
+    <Resource Include="catsImages\котик (4).jpg" />
+    <Resource Include="catsImages\котик (5).jpg" />
+    <Resource Include="catsImages\котик (6).jpg" />
+    <Resource Include="catsImages\котик (7).jpg" />
+    <Resource Include="catsImages\котик (8).jpg" />
+    <Resource Include="catsImages\котик (9).jpg" />
+  </ItemGroup>
+
+</Project>
