@@ -9,6 +9,28 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="catsImages\39.jpg" />
+    <None Remove="catsImages\40.jpg" />
+    <None Remove="catsImages\41.jpg" />
+    <None Remove="catsImages\42.jpg" />
+    <None Remove="catsImages\43.jpg" />
+    <None Remove="catsImages\44.jpg" />
+    <None Remove="catsImages\45.jpg" />
+    <None Remove="catsImages\46.jpg" />
+    <None Remove="catsImages\47.jpg" />
+    <None Remove="catsImages\48.jpg" />
+    <None Remove="catsImages\49.jpg" />
+    <None Remove="catsImages\50.jpg" />
+    <None Remove="catsImages\51.jpg" />
+    <None Remove="catsImages\52.jpg" />
+    <None Remove="catsImages\53.jpg" />
+    <None Remove="catsImages\54.jpg" />
+    <None Remove="catsImages\55.jpg" />
+    <None Remove="catsImages\56.jpg" />
+    <None Remove="catsImages\57.jpg" />
+    <None Remove="catsImages\58.jpg" />
+    <None Remove="catsImages\59.jpg" />
+    <None Remove="catsImages\60.jpg" />
     <None Remove="catsImages\котик %281%29.jpeg" />
     <None Remove="catsImages\котик %2810%29.jpg" />
     <None Remove="catsImages\котик %2811%29.jpg" />
@@ -54,6 +76,28 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Resource Include="catsImages\39.jpg" />
+    <Resource Include="catsImages\40.jpg" />
+    <Resource Include="catsImages\41.jpg" />
+    <Resource Include="catsImages\42.jpg" />
+    <Resource Include="catsImages\43.jpg" />
+    <Resource Include="catsImages\44.jpg" />
+    <Resource Include="catsImages\45.jpg" />
+    <Resource Include="catsImages\46.jpg" />
+    <Resource Include="catsImages\47.jpg" />
+    <Resource Include="catsImages\48.jpg" />
+    <Resource Include="catsImages\49.jpg" />
+    <Resource Include="catsImages\50.jpg" />
+    <Resource Include="catsImages\51.jpg" />
+    <Resource Include="catsImages\52.jpg" />
+    <Resource Include="catsImages\53.jpg" />
+    <Resource Include="catsImages\54.jpg" />
+    <Resource Include="catsImages\55.jpg" />
+    <Resource Include="catsImages\56.jpg" />
+    <Resource Include="catsImages\57.jpg" />
+    <Resource Include="catsImages\58.jpg" />
+    <Resource Include="catsImages\59.jpg" />
+    <Resource Include="catsImages\60.jpg" />
     <Resource Include="catsImages\котик (1).jpeg" />
     <Resource Include="catsImages\котик (10).jpg" />
     <Resource Include="catsImages\котик (11).jpg" />

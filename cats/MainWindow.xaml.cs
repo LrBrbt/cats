@@ -30,7 +30,7 @@ namespace cats
             try
             {
                 Random rnd = new();
-                int numberCat = rnd.Next(1, 39);
+                int numberCat = rnd.Next(1, 61);
                 CaptionTXT.Text = "";
                 CaptionTXT.Foreground = Brushes.Black;
                 CaptionTXT.FontWeight = FontWeights.Bold;
@@ -224,6 +224,116 @@ namespace cats
                 {
                     CatImage.Source = new BitmapImage(new Uri("./catsImages/котик (38).jpg", UriKind.Relative));
                     CaptionTXT.Text = "Каждое утро просыпаюсь с таким лицом";
+                }
+                if (numberCat == 39)
+                {
+                    CatImage.Source = new BitmapImage(new Uri("./catsImages/39.jpg", UriKind.Relative));
+                    CaptionTXT.Text = "Лежит, отдыхает))";
+                }
+                if (numberCat == 40)
+                {
+                    CatImage.Source = new BitmapImage(new Uri("./catsImages/40.jpg", UriKind.Relative));
+                    CaptionTXT.Text = "- Ну не кусяй((\n-БУДУ! >:)";
+                }
+                if (numberCat == 41)
+                {
+                    CatImage.Source = new BitmapImage(new Uri("./catsImages/41).jpg", UriKind.Relative));
+                    CaptionTXT.Text = "Когда помешали красть конфеты";
+                }
+                if (numberCat == 42)
+                {
+                    CatImage.Source = new BitmapImage(new Uri("./catsImages/42.jpg", UriKind.Relative));
+                    CaptionTXT.Text = ":3";
+                }
+                if (numberCat == 43)
+                {
+                    CatImage.Source = new BitmapImage(new Uri("./catsImages/43.jpg", UriKind.Relative));
+                    CaptionTXT.Text = "Конфетька :)";
+                }
+                if (numberCat == 44)
+                {
+                    CatImage.Source = new BitmapImage(new Uri("./catsImages/44.jpg", UriKind.Relative));
+                    CaptionTXT.Text = "Рамштайн играет";
+                }
+                if (numberCat == 45)
+                {
+                    CatImage.Source = new BitmapImage(new Uri("./catsImages/45.jpg", UriKind.Relative));
+                    CaptionTXT.Text = "Ох уж эта семейная жизнь...";
+                }
+                if (numberCat == 46)
+                {
+                    CatImage.Source = new BitmapImage(new Uri("./catsImages/46.jpg", UriKind.Relative));
+                    CaptionTXT.Text = "Чокопайка убегает :000";
+                }
+                if (numberCat == 47)
+                {
+                    CatImage.Source = new BitmapImage(new Uri("./catsImages/47.jpg", UriKind.Relative));
+                    CaptionTXT.Text = "Ой а кто у нас такой просыпается?!?";
+                }
+                if (numberCat == 48)
+                {
+                    CatImage.Source = new BitmapImage(new Uri("./catsImages/48.jpg", UriKind.Relative));
+                    CaptionTXT.Text = "Мы правда помогаем работать!!!";
+                }
+                if (numberCat == 49)
+                {
+                    CatImage.Source = new BitmapImage(new Uri("./catsImages/49.jpg", UriKind.Relative));
+                    CaptionTXT.Text = "Мем";
+                }
+                if (numberCat == 50)
+                {
+                    CatImage.Source = new BitmapImage(new Uri("./catsImages/50.jpg", UriKind.Relative));
+                    CaptionTXT.Text = "Чебупеля";
+                }
+                if (numberCat == 51)
+                {
+                    CatImage.Source = new BitmapImage(new Uri("./catsImages/51.jpg", UriKind.Relative));
+                    CaptionTXT.Text = "Хей беби герл вот ю дуинг тунайт";
+                }
+                if (numberCat == 52)
+                {
+                    CatImage.Source = new BitmapImage(new Uri("./catsImages/52.jpg", UriKind.Relative));
+                    CaptionTXT.Text = "Теперь это не тапок а его дом";
+                }
+                if (numberCat == 53)
+                {
+                    CatImage.Source = new BitmapImage(new Uri("./catsImages/53.jpg", UriKind.Relative));
+                    CaptionTXT.Text = "Воздушная зефирка";
+                }
+                if (numberCat == 54)
+                {
+                    CatImage.Source = new BitmapImage(new Uri("./catsImages/54.jpg", UriKind.Relative));
+                    CaptionTXT.Text = "Весь семейный бюджет и так на мне, работа на мне, еще и продукты самой таскать...";
+                }
+                if (numberCat == 55)
+                {
+                    CatImage.Source = new BitmapImage(new Uri("./catsImages/55.jpg", UriKind.Relative));
+                    CaptionTXT.Text = ":3";
+                }
+                if (numberCat == 56)
+                {
+                    CatImage.Source = new BitmapImage(new Uri("./catsImages/56.jpg", UriKind.Relative));
+                    CaptionTXT.Text = "Красавец)";
+                }
+                if (numberCat == 57)
+                {
+                    CatImage.Source = new BitmapImage(new Uri("./catsImages/57.jpg", UriKind.Relative));
+                    CaptionTXT.Text = "Цветочек :3";
+                }
+                if (numberCat == 58)
+                {
+                    CatImage.Source = new BitmapImage(new Uri("./catsImages/58.jpg", UriKind.Relative));
+                    CaptionTXT.Text = "ГОСПОДИ КАКАЯ ЖИЗА ЭТО Я НА ВСЕ 1000%";
+                }
+                if (numberCat == 59)
+                {
+                    CatImage.Source = new BitmapImage(new Uri("./catsImages/59.jpg", UriKind.Relative));
+                    CaptionTXT.Text = "Обнимааашки";
+                }
+                if (numberCat == 60)
+                {
+                    CatImage.Source = new BitmapImage(new Uri("./catsImages/60.jpg", UriKind.Relative));
+                    CaptionTXT.Text = "Вам шикарный букет";
                 }
             }
             catch (Exception ex) 
