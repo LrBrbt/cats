@@ -52,7 +52,7 @@
             <RowDefinition Height="282.026"/>
             <RowDefinition/>
         </Grid.RowDefinitions>
-        <Button Style="{StaticResource ButtonStyle}" Content="Посмотреть котиков" Margin="265,112,265,10" x:Name="WatchCatsBTN" Click="WatchCatsBTN_Click" Grid.Row="1"/>
+        <Button Style="{StaticResource ButtonStyle}" Content="Посмотреть котиков" Margin="265,112,265,10" x:Name="WatchCatsBTN" Click="WatchCatsBTN_Click" Grid.Row="1" IsDefault="True"/>
         <Image x:Name="CatImage"  Grid.Row="0" Margin="183,0,183,0"/>
         <TextBlock x:Name="CaptionTXT"  Margin="265,9,265,97" Text="Что-то про котиков (или нет)" Grid.Row="1" TextWrapping="Wrap" FontStyle="Italic" Foreground="Gray" FontWeight="Thin"/>
 
